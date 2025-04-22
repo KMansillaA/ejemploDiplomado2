@@ -1,1 +1,2 @@
-# ejemploDiplomado2
+# README de Ejemplo
+## subtiulo
